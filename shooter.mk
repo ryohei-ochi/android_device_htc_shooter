@@ -185,7 +185,7 @@ $(call inherit-product, device/htc/shooter/media_a1026.mk)
 ## htc audio settings
 $(call inherit-product, device/htc/shooter/media_htcaudio.mk)
 
-$(call inherit-product, frameworks/base/build/phone-hdpi-512-dalvik-heap.mk)
+##$(call inherit-product, frameworks/base/build/phone-hdpi-512-dalvik-heap.mk)
 
 $(call inherit-product, build/target/product/full_base_telephony.mk)
 
